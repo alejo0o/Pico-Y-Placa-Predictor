@@ -50,7 +50,7 @@ export default class Car {
         else return true;
 
       default:
-        return false;
+        return true;
     }
   }
 }
